@@ -32,7 +32,7 @@ Kelas   : TI.22.B2
 
 - Output Tambah data
 
-    <img src="3.PNG">
+    ![3](https://user-images.githubusercontent.com/115912116/210395598-fe7df17d-c901-4bb5-b1c5-5a58adf053d6.PNG)
 
 - lihat Data
 #
@@ -56,7 +56,7 @@ Kelas   : TI.22.B2
 
 - Output Lihat Data
 
-    <img src="5.PNG">
+    ![5](https://user-images.githubusercontent.com/115912116/210395709-47af7057-ee4a-4cb9-9f4f-c28e4a88b56a.PNG)
 
 - Mengubah Data 
 #
@@ -72,9 +72,9 @@ Kelas   : TI.22.B2
             a[nama] = nim, uts, uas, tugas, akhir
         else:
             print("Nama {0} tidak ditemukan".format(nama))
-- Output 
+- Output Ubah Data
 
-    <img src="7.PNG">
+    ![7](https://user-images.githubusercontent.com/115912116/210395793-9128fb03-1d4a-4a48-b7b9-41f7c6c7eb1f.PNG)
 
 -   Hapus Data
 
@@ -89,11 +89,11 @@ Kelas   : TI.22.B2
 
 - 0utput Hapus Data
 
-    <img src="8.PNG">
+    ![8](https://user-images.githubusercontent.com/115912116/210395839-9e787011-89bc-4722-9e3d-e6f605fa775c.PNG)
 
 - Output Keluar
 
-    <img src="9.PNG">
+    ![9](https://user-images.githubusercontent.com/115912116/210395878-c5adab2f-cf35-4eeb-91d8-d91aa9409fde.PNG)
 
 
 
