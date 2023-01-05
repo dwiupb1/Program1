@@ -63,7 +63,7 @@ Kelas   : TI.22.B2
 
 * Output data
 
-    <img src="daftar_nilai.py.PNG">
+   ![daftar_nilai py](https://user-images.githubusercontent.com/115912116/210795222-944877f7-e9dd-4e01-b2f0-7f2656b7e091.PNG)
 
 >view_nilai.py berisi modul untuk: cetak_daftar_nilai, cetak_hasil_pencarian 
 
@@ -89,7 +89,7 @@ Kelas   : TI.22.B2
 
 * 0utput Data :
 
-    <img src="view_nilai.py.PNG">
+    ![view_nilai py](https://user-images.githubusercontent.com/115912116/210795165-cb3834b1-effc-4270-9ddc-1bbd96ae3e42.PNG)
 
  >input_nilai.py berisi modul untuk: input_data yang meminta pengguna memasukkan data. 
 
@@ -120,7 +120,7 @@ Kelas   : TI.22.B2
 
 * Output data :
 
-   <img src="input_nilai.py.PNG">
+   ![input_nilai py](https://user-images.githubusercontent.com/115912116/210795144-89169eff-3a8f-4b6f-a0fc-3a5b7452bbce.PNG)
 
  >main.py berisi program utama (menu pilihan yang memanggil semua menu yang ada)
 
@@ -155,7 +155,7 @@ Kelas   : TI.22.B2
 
 * Output data :
 
-<img src="main.py.PNG">
+   ![main py](https://user-images.githubusercontent.com/115912116/210795160-e1ba8940-6351-4dcb-819b-9961b600357b.PNG)
 
 
 
