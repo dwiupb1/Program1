@@ -157,6 +157,8 @@ Kelas   : TI.22.B2
 
    ![main py](https://user-images.githubusercontent.com/115912116/210795160-e1ba8940-6351-4dcb-819b-9961b600357b.PNG)
 
+# Link Youtube
+ * Jangan Lupa Like & Subcribe
 
 
     ========   SELESAI TRIMKASIH ==========
